@@ -28,7 +28,7 @@ rectangle 业务流程 {
 
 ### 1.2. 用例图如下：
 
-![usecase](usecase.PNG)
+![usecase](usecase.png)
 
 ## 2. 参与者说明：
 
@@ -85,10 +85,10 @@ stop
 
 ###     3.4 “增减图书”用例
 
-![usecase4](usecase4.png)
+![usecase4](usecase4.PNG)
 
 ###     3.5 “用户管理”用例
 
-![usecase5](usecase5.png)
+![usecase5](usecase5.PNG)
 
 参见：表7.5
