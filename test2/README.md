@@ -1,5 +1,5 @@
 ﻿# 实验2：图书管理系统用例建模（老师示范）
-|学号|班级|姓名|照片|
+|学号|班级|姓名|
 |:-------:|:-------------: | :----------:|
 |201610414305|软件(本)16-3|郭一家|
 
@@ -28,7 +28,7 @@ rectangle 业务流程 {
 
 ### 1.2. 用例图如下：
 
-![usecase](usecase.png)
+![usecase](usecase.PNG)
 
 ## 2. 参与者说明：
 
@@ -48,11 +48,11 @@ rectangle 业务流程 {
 
 ###     3.1 “注册”用例
 
-![usecase1](usecase1.png)
+![usecase1](usecase1.PNG)
 
 ###     3.2 “借书”用例
 
-![usecase2](usecase2.png)
+![usecase2](usecase2.PNG)
 
 **“借书”用例流程图源码如下：**
 ``` uc1_flow
@@ -77,11 +77,11 @@ stop
 
 **“借书”用例流程图源码如下：**
 
-![uc2_flow](usecase2_flow.jpg)
+![uc2_flow](usecase2_flow.png)
 
 ###     3.3 “还书”用例
 
-![usecase3](usecase3.png)
+![usecase3](usecase3.PNG)
 
 ###     3.4 “增减图书”用例
 
