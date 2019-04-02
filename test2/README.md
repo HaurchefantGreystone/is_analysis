@@ -90,5 +90,3 @@ stop
 ###     3.5 “用户管理”用例
 
 ![usecase5](usecase5.PNG)
-
-参见：表7.5
