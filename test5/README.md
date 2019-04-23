@@ -100,7 +100,7 @@
 ## 2. 界面设计
 ## 2.1. 借书界面设计
 ![pic1](pic1.png)
-- 运行链接:https://github.com/HaurchefantGreystone/is_analysis/tree/master/test5/book.html
+- 运行链接:[借书界面](https://github.com/HaurchefantGreystone/is_analysis/tree/master/test5/book.html)
 - 用例图参见：借书用例
 - 类图参见：借书记录类，读者类
 - 顺序图参见：借书用例顺序图
