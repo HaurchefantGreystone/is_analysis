@@ -1,5 +1,5 @@
-@startuml
-title 基于GitHub的实验管理平台--用例图
+﻿@startuml
+title 基于GitHub的实验管理平台（改）--用例图
 actor teachers
 actor students
 actor users
@@ -15,9 +15,14 @@ users --up-> (修改密码)
 }
 package 业务用例集 {
 teachers ---> (评定成绩)
-teachers ---> (学生列表)
-students ---> (学生列表)
-students ---> (查看成绩)
+teachers ---> (选择课程)
+teachers ---> (查询课程)
+teachers ---> (查询学生)
+teachers ---> (查询成绩)
+students ---> (选择课程)
+students ---> (设置github名)
+students ---> (查询成绩)
 }
+@enduml
 
 @enduml
