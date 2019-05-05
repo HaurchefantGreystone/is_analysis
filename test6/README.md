@@ -29,8 +29,7 @@
 - 实验成绩按数字分数计算，每项实验的满分为100分，最低为0分。
 - 系统自动计算每个学生的所有实验的平均分。
     
-## 2. 系统总体结构
-![](系统总体结构.png)
+## 2. 界面设计
 
 界面设计参见：https://haurchefantgreystone.github.io/is_analysis/test6/ui/index.html
     
@@ -49,7 +48,7 @@
 - ### [“登录”用例](./用例/登录.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/login.html)
 - ### [“登出”用例](./用例/登出.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/logout.html)
 - ### [“学生列表”用例](./用例/学生列表.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showstudents.html)
-- ### [“查询成绩”用例](./用例/查询成绩.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showgrades.html)
+- ### [“查询成绩”用例](./用例/查看成绩.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showgrades.html)
 - ### [“评定成绩”用例](./用例/评定成绩.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/comment.html)
 - ### [“查询课程”用例](./用例/查看课程.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showcourse.html)
 - ### [“教师选择课程”用例](./用例/教师选课.md),[界面](https://haurchefantGreystone.github.io/is_analysis/test6/ui/teacherchoose.html)
