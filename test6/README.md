@@ -43,13 +43,13 @@
 - ### [参见数据库设计](./数据库设计.md)
 
 ## 6. 用例及界面详细设计
-- ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showuser.html)
+- ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showusers.html)
 - ### [“修改用户信息”用例](./用例/修改用户信息.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/modifyusers.html)
 - ### [“登录”用例](./用例/登录.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/login.html)
 - ### [“登出”用例](./用例/登出.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/logout.html)
 - ### [“学生列表”用例](./用例/学生列表.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showstudents.html)
 - ### [“查询成绩”用例](./用例/查看成绩.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showgrades.html)
 - ### [“评定成绩”用例](./用例/评定成绩.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/comment.html)
-- ### [“查询课程”用例](./用例/查看课程.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showcourse.html)
+- ### [“查询课程”用例](./用例/查看课程.md),[界面](https://haurchefantgreystone.github.io/is_analysis/test6/ui/showcourses.html)
 - ### [“教师选择课程”用例](./用例/教师选课.md),[界面](https://haurchefantGreystone.github.io/is_analysis/test6/ui/teacherchoose.html)
 - ### [“学生选择课程”用例](./用例/学生选课.md),[界面](https://haurchefantGreystone.github.io/is_analysis/test6/ui/studentschoose.html)
