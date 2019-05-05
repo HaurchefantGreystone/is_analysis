@@ -11,7 +11,6 @@ users --up-> (登录)
 users --up-> (登出)
 users --up-> (查看用户信息)
 users --up-> (修改用户信息)
-users --up-> (修改密码)
 }
 package 业务用例集 {
 teachers ---> (评定成绩)

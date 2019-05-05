@@ -1,0 +1,9 @@
+@startuml
+title 基于GitHub的实验管理平台--修改用户信息用例的顺序图
+actor teachers
+teachers -> users: 查看用户信息
+users -->teachers: 返回待修改用户的所有信息
+teachers -> users: 输入要修改的用户信息
+users -> users: 将修改后的信息上传
+users --> teachers: 返回提示信息
+@enduml
